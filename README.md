@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @naoki914, Currently working as a backend developer in a B2B cloudstorage company.
-- 👀 For BE development I mainly use python, and recently I've been experimenting with Dart (Flutter)
+- 👋 Hi, I’m @naoki914, Currently working as a backend developer in a B2B cloud storage company.
+- 👀 For BE development I mainly use python (Django and FastAPI), and recently I've been experimenting with Dart (Flutter)
+
 
 - 🌱 I’m quite interested in security and cloud tech in general. (Currently preping up for my AWS SAA exam) 
 - 💞️ Hit me up if you think it would be interesting to collaborate on something
